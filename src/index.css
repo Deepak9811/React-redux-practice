@@ -11,3 +11,10 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+
+.ui.grid>.column:not(.row), .ui.grid>.row>.column {
+ 
+  width: 24.25%;
+  
+}

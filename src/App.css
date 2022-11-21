@@ -36,3 +36,8 @@
     transform: rotate(360deg);
   }
 }
+
+
+.ui.fixed.menu+.ui.grid {
+  padding-top: 4.75rem;
+}
