@@ -18,3 +18,7 @@ code {
   width: 24.25%;
   
 }
+
+.ui.fixed.menu+.ui.grid {
+  padding-top: 5.75rem;
+}
